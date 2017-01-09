@@ -1,2 +1,2 @@
 key "9de492aad55c91d2871ab2d277f612eb31011eb242830e421c2e7478c1e11406";
-remote ipv6 "spinat.freifunk-mwu.de" port 10057;
+remote ipv6 "spinat.freifunk-mwu.de" port 10156;
